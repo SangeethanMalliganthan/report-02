@@ -1,27 +1,11 @@
-.box {
-    width: 500px;
-    margin: 300px 0;
+body,html {
+    background-image: url('http://www.ecopetit.cat/iconpics/f/1/14365/wallpapers-full-hd-abstract-black.jpg');
+    height: 100%;
 }
 
-.shape1{
-   	position: absolute;
-	display: inline-block;
-	top: 210px;
-	bottom: 50px;
-	left: 60px;
-    height: 400px;
-    width: 400px;
-    background-color: #A0A0A0;
-    border-radius: 20px;
-    float: left;
-    margin-right: 50px;
+#profile-img {
+    height:180px;
 }
-
-.float {
-    position: absolute;
-    z-index: 2;
-}
-
-.form {
-    margin-left: 145px;
+.h-80 {
+    height: 80% !important;
 }
